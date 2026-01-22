@@ -6,18 +6,6 @@ For this lesson, you will be required to complete the  exercises below.
 
 Make sure to write your solutions in the `main.py` file.
 
-2. Open help for the `math` module.
-
-    1. How many functions are in the `math` module?
-
-    2. What does `math.ceil` do? What about `math.floor`? _(hint: both floor and ceil expect floating point arguments.)_
-
-    3. Describe how we have been computing the same value as `math.sqrt` without using the `math` module.
-
-    4. What are the two data constants in the `math` module?
-
-Record detailed notes of your investigation in this exercise.
-
 
 4. Create a module named `mymodule1.py`. Add attributes `myage` set to your current age, and `year` set to the current year. Create another module named `mymodule2.py`. Add attributes `myage` set to 0, and `year` set to the year you were born. Now create a file named `namespace_test.py`. Import both of the modules above and write the following statement:
 ```python
